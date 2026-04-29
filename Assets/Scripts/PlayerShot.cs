@@ -37,7 +37,7 @@ public class PlayerShot : MonoBehaviour
             }
 
             Instantiate(explosionPrefab, other.transform.position, Quaternion.identity);
-
+            
             Destroy(other.gameObject);
             Destroy(gameObject);
         }

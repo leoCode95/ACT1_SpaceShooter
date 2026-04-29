@@ -170,4 +170,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerShot
   speed: 10
-  explosionPrefab: {fileID: 2967955219031739077, guid: fcb9a0499aa8d1843bcd67f90385d5c5, type: 3}
+  explosionPrefab: {fileID: 8363297760020944509, guid: e45e3ca8ea42c664fb90f31a0f5ac149, type: 3}
+  explosionSound: {fileID: 8300000, guid: 70ab76691a57fb5499cc46b757f16ca4, type: 3}
